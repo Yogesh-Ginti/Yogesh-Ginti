@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yogesh-Ginti
 - 👀 I’m interested in Web development and BlockChain
-- 🌱 I’m currently learning Web development(MERN)
+- 🌱 I’m gained skills of Web development(MERN)
 - 💞️I'm looking to collaborate on innovative web development projects
 - ✉️  You can contact me at yogeshginti@gmail.com
 - 😄 Pronouns: "yoggi"
