@@ -3,7 +3,7 @@
 - 🌱 I’m gained skills of Web development(MERN)
 - 💞️I'm looking to collaborate on innovative web development projects
 - ✉️  You can contact me at yogeshginti@gmail.com
-- 😄 Pronouns: "yoggi"
+- 😄 Pronouns: "yogi"
 - ⚡ Fun fact: "I Love Moto Riding"
 
 <!---
